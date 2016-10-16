@@ -1,0 +1,4 @@
+C:\Users\Administrator\Desktop\ConsistencyAnalysis\ConsistencyAnalysis.Infrastructure\bin\Release\ConsistencyAnalysis.Infrastructure.dll
+C:\Users\Administrator\Desktop\ConsistencyAnalysis\ConsistencyAnalysis.Infrastructure\bin\Release\ConsistencyAnalysis.Infrastructure.pdb
+C:\Users\Administrator\Desktop\ConsistencyAnalysis\ConsistencyAnalysis.Infrastructure\obj\Release\ConsistencyAnalysis.Infrastructure.dll
+C:\Users\Administrator\Desktop\ConsistencyAnalysis\ConsistencyAnalysis.Infrastructure\obj\Release\ConsistencyAnalysis.Infrastructure.pdb

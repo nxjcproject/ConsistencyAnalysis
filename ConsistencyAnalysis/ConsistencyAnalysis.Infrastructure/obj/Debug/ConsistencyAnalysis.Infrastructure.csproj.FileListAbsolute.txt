@@ -1,0 +1,9 @@
+d:\我的文档\visual studio 2012\Projects\ConsistencyAnalysis\ConsistencyAnalysis.Infrastructure\bin\Debug\ConsistencyAnalysis.Infrastructure.dll
+d:\我的文档\visual studio 2012\Projects\ConsistencyAnalysis\ConsistencyAnalysis.Infrastructure\bin\Debug\ConsistencyAnalysis.Infrastructure.pdb
+d:\我的文档\visual studio 2012\Projects\ConsistencyAnalysis\ConsistencyAnalysis.Infrastructure\obj\Debug\ConsistencyAnalysis.Infrastructure.dll
+d:\我的文档\visual studio 2012\Projects\ConsistencyAnalysis\ConsistencyAnalysis.Infrastructure\obj\Debug\ConsistencyAnalysis.Infrastructure.pdb
+D:\我的文档\Visual Studio 2012\Projects\ConsistencyAnalysis\ConsistencyAnalysis.Infrastructure\obj\Debug\ConsistencyAnalysis.Infrastructure.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\ConsistencyAnalysis\ConsistencyAnalysis.Infrastructure\obj\Debug\ConsistencyAnalysis.Infrastructure.dll
+C:\Users\Administrator\Desktop\ConsistencyAnalysis\ConsistencyAnalysis.Infrastructure\obj\Debug\ConsistencyAnalysis.Infrastructure.pdb
+C:\Users\Administrator\Desktop\ConsistencyAnalysis\ConsistencyAnalysis.Infrastructure\bin\Debug\ConsistencyAnalysis.Infrastructure.dll
+C:\Users\Administrator\Desktop\ConsistencyAnalysis\ConsistencyAnalysis.Infrastructure\bin\Debug\ConsistencyAnalysis.Infrastructure.pdb

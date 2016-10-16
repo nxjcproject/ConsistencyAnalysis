@@ -1,0 +1,8 @@
+C:\Users\Administrator\Desktop\ConsistencyAnalysis\ConsistencyAnalysis.Service\bin\Release\ConsistencyAnalysis.Service.dll
+C:\Users\Administrator\Desktop\ConsistencyAnalysis\ConsistencyAnalysis.Service\bin\Release\ConsistencyAnalysis.Service.pdb
+C:\Users\Administrator\Desktop\ConsistencyAnalysis\ConsistencyAnalysis.Service\bin\Release\ConsistencyAnalysis.Infrastructure.dll
+C:\Users\Administrator\Desktop\ConsistencyAnalysis\ConsistencyAnalysis.Service\bin\Release\SqlServerDataAdapter.dll
+C:\Users\Administrator\Desktop\ConsistencyAnalysis\ConsistencyAnalysis.Service\bin\Release\ConsistencyAnalysis.Infrastructure.pdb
+C:\Users\Administrator\Desktop\ConsistencyAnalysis\ConsistencyAnalysis.Service\obj\Release\ConsistencyAnalysis.Service.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\ConsistencyAnalysis\ConsistencyAnalysis.Service\obj\Release\ConsistencyAnalysis.Service.dll
+C:\Users\Administrator\Desktop\ConsistencyAnalysis\ConsistencyAnalysis.Service\obj\Release\ConsistencyAnalysis.Service.pdb

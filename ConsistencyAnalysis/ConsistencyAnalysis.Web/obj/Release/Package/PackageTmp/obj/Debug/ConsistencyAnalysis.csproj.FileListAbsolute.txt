@@ -1,0 +1,5 @@
+d:\我的文档\visual studio 2012\Projects\ConsistencyAnalysis\ConsistencyAnalysis\bin\ConsistencyAnalysis.dll
+d:\我的文档\visual studio 2012\Projects\ConsistencyAnalysis\ConsistencyAnalysis\bin\ConsistencyAnalysis.pdb
+d:\我的文档\visual studio 2012\Projects\ConsistencyAnalysis\ConsistencyAnalysis\obj\Debug\ConsistencyAnalysis.csprojResolveAssemblyReference.cache
+d:\我的文档\visual studio 2012\Projects\ConsistencyAnalysis\ConsistencyAnalysis\obj\Debug\ConsistencyAnalysis.dll
+d:\我的文档\visual studio 2012\Projects\ConsistencyAnalysis\ConsistencyAnalysis\obj\Debug\ConsistencyAnalysis.pdb

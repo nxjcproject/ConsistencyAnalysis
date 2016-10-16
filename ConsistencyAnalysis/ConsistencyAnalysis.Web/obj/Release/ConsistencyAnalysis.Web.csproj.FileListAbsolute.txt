@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\ConsistencyAnalysis\ConsistencyAnalysis.Web\bin\ConsistencyAnalysis.dll
+C:\Users\Administrator\Desktop\ConsistencyAnalysis\ConsistencyAnalysis.Web\bin\ConsistencyAnalysis.pdb
+C:\Users\Administrator\Desktop\ConsistencyAnalysis\ConsistencyAnalysis.Web\bin\ConsistencyAnalysis.Infrastructure.dll
+C:\Users\Administrator\Desktop\ConsistencyAnalysis\ConsistencyAnalysis.Web\bin\ConsistencyAnalysis.Service.dll
+C:\Users\Administrator\Desktop\ConsistencyAnalysis\ConsistencyAnalysis.Web\bin\SqlServerDataAdapter.dll
+C:\Users\Administrator\Desktop\ConsistencyAnalysis\ConsistencyAnalysis.Web\bin\ConsistencyAnalysis.Infrastructure.pdb
+C:\Users\Administrator\Desktop\ConsistencyAnalysis\ConsistencyAnalysis.Web\bin\ConsistencyAnalysis.Service.pdb
+C:\Users\Administrator\Desktop\ConsistencyAnalysis\ConsistencyAnalysis.Web\obj\Release\ConsistencyAnalysis.Web.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\ConsistencyAnalysis\ConsistencyAnalysis.Web\obj\Release\ConsistencyAnalysis.dll
+C:\Users\Administrator\Desktop\ConsistencyAnalysis\ConsistencyAnalysis.Web\obj\Release\ConsistencyAnalysis.pdb
