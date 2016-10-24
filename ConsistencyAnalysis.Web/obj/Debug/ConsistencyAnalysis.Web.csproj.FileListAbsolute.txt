@@ -18,3 +18,13 @@ C:\Users\Administrator\Desktop\ConsistencyAnalysis\ConsistencyAnalysis.Web\bin\C
 C:\Users\Administrator\Desktop\ConsistencyAnalysis\ConsistencyAnalysis.Web\obj\Debug\ConsistencyAnalysis.Web.csprojResolveAssemblyReference.cache
 C:\Users\Administrator\Desktop\ConsistencyAnalysis\ConsistencyAnalysis.Web\obj\Debug\ConsistencyAnalysis.dll
 C:\Users\Administrator\Desktop\ConsistencyAnalysis\ConsistencyAnalysis.Web\obj\Debug\ConsistencyAnalysis.pdb
+E:\git仓库\ConsistencyAnalysis\ConsistencyAnalysis.Web\bin\ConsistencyAnalysis.dll
+E:\git仓库\ConsistencyAnalysis\ConsistencyAnalysis.Web\bin\ConsistencyAnalysis.pdb
+E:\git仓库\ConsistencyAnalysis\ConsistencyAnalysis.Web\bin\ConsistencyAnalysis.Infrastructure.dll
+E:\git仓库\ConsistencyAnalysis\ConsistencyAnalysis.Web\bin\ConsistencyAnalysis.Service.dll
+E:\git仓库\ConsistencyAnalysis\ConsistencyAnalysis.Web\bin\SqlServerDataAdapter.dll
+E:\git仓库\ConsistencyAnalysis\ConsistencyAnalysis.Web\bin\ConsistencyAnalysis.Infrastructure.pdb
+E:\git仓库\ConsistencyAnalysis\ConsistencyAnalysis.Web\bin\ConsistencyAnalysis.Service.pdb
+E:\git仓库\ConsistencyAnalysis\ConsistencyAnalysis.Web\obj\Debug\ConsistencyAnalysis.Web.csprojResolveAssemblyReference.cache
+E:\git仓库\ConsistencyAnalysis\ConsistencyAnalysis.Web\obj\Debug\ConsistencyAnalysis.dll
+E:\git仓库\ConsistencyAnalysis\ConsistencyAnalysis.Web\obj\Debug\ConsistencyAnalysis.pdb
