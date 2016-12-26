@@ -88,7 +88,8 @@ function LoadTreeGrid(type, myData) {
                     { field: 'MaxVaule', title: '最大值', width: 80, align: "left" },
                     { field: 'MinVaule', title: '最小值', width: 80, align: "left" },
                     { field: 'AvgVaule', title: '均值', width: 80, align: "left" },
-                    { field: 'VarVaule', title: '方差', width: 80, align: "left" }
+                    { field: 'StdevpVaule', title: '标准差', width: 80, align: "left" }
+                    //{ field: 'VarVaule', title: '方差', width: 80, align: "left" }
                     //{ field: 'VarVaule', title: '方差', width: 80, align: "right" },
                     //{ field: 'StdVaule', title: '标准差', width: 60, align: "right" }
             ]],
@@ -107,6 +108,7 @@ function LoadTreeGrid(type, myData) {
         $('#grid_Main').treegrid('loadData', myData);
     }
 }
+var mger = Object;
 function Query() {
     var mOrganizationID = $('#organizationId').val();
     var beginTime = $('#startTime').datebox('getValue');
@@ -121,10 +123,8 @@ function Query() {
             data: '{mOrganizationID: "' + mOrganizationID + '",beginTime:"' + beginTime + '",endTime:"' + endTime + '",m_productionprocessId:"' + m_productionprocessId + '",m_RecordName:"' + m_RecordName + '"}',
             contentType: "application/json; charset=utf-8",
             dataType: "json",
-            //beforeSend:function(){
-            //    $.messager.alert('提示','数据加载中...');
-            //},
             success: function (msg) {
+                mger.window('close');
                 m_MsgData = jQuery.parseJSON(msg.d);
                 if (m_MsgData.total == 0) {
                     $('#grid_Main').treegrid('loadData', []);
@@ -133,6 +133,10 @@ function Query() {
                 else {
                     LoadTreeGrid("last", m_MsgData);
                 }
+            },
+            beforeSend: function (XMLHttpRequest) {
+                //alert('远程调用开始...');
+                mger = $.messager.alert('提示', "加载中...");
             },
             error: function handleError() {
                 $('#grid_Main').treegrid('loadData', []);

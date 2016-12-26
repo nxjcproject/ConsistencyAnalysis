@@ -8,19 +8,20 @@
     <LastUsedBuildConfiguration>Release</LastUsedBuildConfiguration>
     <LastUsedPlatform>Any CPU</LastUsedPlatform>
     <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>H:\徐一帅项目\第一轮修改Release文件夹\ConsistencyAnalysis</_PublishTargetUrl>
   </PropertyGroup>
   <ItemGroup>
     <File Include="AnalysisContrastId.aspx">
       <publishTime>09/20/2016 09:55:35</publishTime>
     </File>
     <File Include="bin/ConsistencyAnalysis.dll">
-      <publishTime>10/13/2016 15:20:16</publishTime>
+      <publishTime>12/20/2016 16:59:58</publishTime>
     </File>
     <File Include="bin/ConsistencyAnalysis.Infrastructure.dll">
-      <publishTime>10/13/2016 15:20:15</publishTime>
+      <publishTime>12/20/2016 16:59:57</publishTime>
     </File>
     <File Include="bin/ConsistencyAnalysis.Service.dll">
-      <publishTime>10/13/2016 15:20:15</publishTime>
+      <publishTime>12/20/2016 16:59:57</publishTime>
     </File>
     <File Include="bin/EasyUIJsonParser.dll">
       <publishTime>07/05/2015 11:29:03</publishTime>
@@ -30,6 +31,9 @@
     </File>
     <File Include="bin/SqlServerDataAdapter.dll">
       <publishTime>12/08/2014 23:31:26</publishTime>
+    </File>
+    <File Include="bin/UpDownLoadFiles.dll">
+      <publishTime>10/18/2015 17:17:40</publishTime>
     </File>
     <File Include="bin/WebStyleBaseForEnergy.dll">
       <publishTime>09/06/2015 14:41:41</publishTime>
@@ -68,7 +72,7 @@
       <publishTime>08/22/2016 16:22:27</publishTime>
     </File>
     <File Include="js/common/PrintFile.js">
-      <publishTime>08/22/2016 16:22:28</publishTime>
+      <publishTime>05/17/2016 02:54:44</publishTime>
     </File>
     <File Include="js/page/AnalysisContrastId.js">
       <publishTime>09/20/2016 09:39:19</publishTime>
@@ -4592,13 +4596,13 @@
       <publishTime>08/22/2016 16:22:38</publishTime>
     </File>
     <File Include="UI_ConsistencyAnalysis/AnalysisContrastId.aspx">
-      <publishTime>10/13/2016 15:14:57</publishTime>
+      <publishTime>12/05/2016 10:41:11</publishTime>
     </File>
     <File Include="UI_ConsistencyAnalysis/js/page/AnalysisContrastId.js">
-      <publishTime>10/13/2016 15:02:21</publishTime>
+      <publishTime>12/20/2016 15:28:26</publishTime>
     </File>
     <File Include="Web.config">
-      <publishTime>10/13/2016 15:20:22</publishTime>
+      <publishTime>12/20/2016 17:00:04</publishTime>
     </File>
   </ItemGroup>
 </Project>

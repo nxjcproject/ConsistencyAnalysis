@@ -144,7 +144,7 @@ namespace ConsistencyAnalysis.Service.AnalysisContrastId
             result.Columns.Add("MaxVaule");
             result.Columns.Add("MinVaule");
             result.Columns.Add("AvgVaule");
-            result.Columns.Add("VarVaule");
+            result.Columns.Add("StdevpVaule");
             //result.Columns.Add("VarVaule");
             //result.Columns.Add("StdVaule");
             result.Columns.Add("ContrastId");
@@ -167,7 +167,7 @@ namespace ConsistencyAnalysis.Service.AnalysisContrastId
                 
                 string Sql = @"select cast (max([{2}]) as decimal(18,2)) as MaxVaule,cast (min([{2}]) as decimal(18,2)) as MinVaule
                                    ,cast (avg([{2}]) as decimal(18,2)) as AvgVaule
-                                   ,cast (var([{2}]) as decimal(18,2)) as VarVaule
+                                   ,cast (stdevp([{2}]) as decimal(18,2)) as StdevpVaule
                                    from {0}.[dbo].History_{1}
                                where vDate>@beginTime
                                      and vDate<@endTime";
@@ -196,7 +196,7 @@ namespace ConsistencyAnalysis.Service.AnalysisContrastId
             dt.Columns.Add("MaxVaule");
             dt.Columns.Add("MinVaule");
             dt.Columns.Add("AvgVaule");
-            dt.Columns.Add("VarVaule");
+            dt.Columns.Add("StdevpVaule");
             dt.Columns.Remove("KeyId");
             dt.Columns.Remove("OrganizationID");
             dt.Columns.Remove("DatabaseID");
@@ -212,6 +212,13 @@ namespace ConsistencyAnalysis.Service.AnalysisContrastId
             result.Columns["LevelCode"].SetOrdinal(0);
              return result;
             
+        }
+        public static void ExportExcelFile(string myFileType, string myFileName, string myData)
+        {
+            if (myFileType == "xls")
+            {
+                UpDownLoadFiles.DownloadFile.ExportExcelFile(myFileName, myData);
+            }
         }
     }
 }

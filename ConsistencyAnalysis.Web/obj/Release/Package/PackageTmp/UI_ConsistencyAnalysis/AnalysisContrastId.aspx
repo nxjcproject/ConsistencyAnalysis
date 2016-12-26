@@ -8,6 +8,14 @@
 <head id="Head1" runat="server">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
     <title>一致性分析</title>
+    <%--<style type="text/css">
+        html, body, #div1 {
+        width: 100%;
+        height: 100%;
+        margin: 0px;
+        padding: 0px;
+        }
+    </style>--%>
     <link rel="stylesheet" type="text/css" href="/lib/ealib/themes/gray/easyui.css"/>
 	<link rel="stylesheet" type="text/css" href="/lib/ealib/themes/icon.css"/>
     <link rel="stylesheet" type="text/css" href="/lib/extlib/themes/syExtIcon.css"/>
@@ -24,9 +32,10 @@
 
     <script type="text/javascript" src="js/page/AnalysisContrastId.js" charset="utf-8"></script>
 </head>
-<body>
-    <div id="cc" class="easyui-layout"data-options="fit:true,border:false" >    
-         <div data-options="region:'west',split:true" style="width: 230px;">
+<body> 
+    <%--<div id="div2" style="width: 100%; height:1500px; margin: 0px auto; position:absolute;z-index:5555;display:none; background-color: #FFFFFF;"></div> --%>         
+    <div id="cc" class="easyui-layout"data-options="fit:true,border:false" >   
+         <div data-options="region:'west'" style="width: 150px;">
             <uc1:OrganisationTree ID="OrganisationTree_ProductionLine" runat="server" />
         </div>
           <div id="toorBar" title="" style="height:56px;padding:10px;">
@@ -59,6 +68,10 @@
                          <td>
                             <a id="btn" href="#" class="easyui-linkbutton" data-options="iconCls:'icon-search'" onclick="Query()">查询</a>
                         </td>
+                        <td><a href="#" class="easyui-linkbutton" data-options="iconCls:'ext-icon-page_white_excel',plain:true" onclick="ExportFileFun();">导出</a>
+                                        </td>
+                        <%--<td><a href="#" class="easyui-linkbutton" data-options="iconCls:'ext-icon-printer',plain:true" onclick="PrintFileFun();">打印</a>
+                                        </td>--%>
                     </tr>
                 </table>         
             </div>

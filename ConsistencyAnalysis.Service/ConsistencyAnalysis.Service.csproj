@@ -41,6 +41,9 @@
     <Reference Include="Microsoft.CSharp" />
     <Reference Include="System.Data" />
     <Reference Include="System.Xml" />
+    <Reference Include="UpDownLoadFiles">
+      <HintPath>E:\1项目\dingzhibaobiao-master\dingzhibaobiao-master\CustomStatisticalReport\CustomStatisticalReport.Web\bin\UpDownLoadFiles.dll</HintPath>
+    </Reference>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AnalysisContrastId\AnalysisContrastIdService.cs" />
