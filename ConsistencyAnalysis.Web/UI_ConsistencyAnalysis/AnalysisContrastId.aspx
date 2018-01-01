@@ -42,9 +42,9 @@
             <div>
                 <table>
                     <tr>
-                        <td>组织机构:</td>
+                        <td>组织机构</td>
                         <td >                               
-                            <input id="organizationName" class="easyui-textbox" readonly="readonly"style="width:80px" />  
+                            <input id="organizationName" class="easyui-textbox" readonly="readonly"style="width:100px" />  
                             <input id="organizationId" readonly="readonly" style="display: none;" />             
                         </td>
                         <td>工序选择</td>
@@ -57,11 +57,11 @@
                         </td>
                     </tr>
                     <tr>               
-                        <td>开始时间：</td>
+                        <td>开始时间</td>
                         <td>
                              <input id="startTime" type="text" class="easyui-datetimebox" style="width:150px;" required="required"/>
                         </td>
-                           <td>结束时间：</td>
+                           <td>结束时间</td>
                          <td>
                              <input id="endTime" type="text" class="easyui-datetimebox" style="width:150px;" required="required"/>
                         </td>              
